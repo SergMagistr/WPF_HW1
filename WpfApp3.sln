@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{59F10057-2DC1-4122-A7C5-A0393650CFB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7742681B-41D4-49DD-BD5B-6F12AA818082}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{812148B6-F60C-45FA-9C96-34EC1E56EE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ1_1_счётчик", "ДЗ1_1_счётчик\ДЗ1_1_счётчик.csproj", "{73BD10BE-F317-4E87-8BFA-52A4580D112B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ1_2_Светофор", "ДЗ1_2_Светофор\ДЗ1_2_Светофор.csproj", "{916D46DD-94F6-40E5-9293-263008C92DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ДЗ1_3_Поймай меня", "ДЗ1_3_Поймай меня\ДЗ1_3_Поймай меня.csproj", "{170DBB40-D686-425F-A659-D0691EDF46CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F10057-2DC1-4122-A7C5-A0393650CFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F10057-2DC1-4122-A7C5-A0393650CFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F10057-2DC1-4122-A7C5-A0393650CFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F10057-2DC1-4122-A7C5-A0393650CFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{812148B6-F60C-45FA-9C96-34EC1E56EE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{812148B6-F60C-45FA-9C96-34EC1E56EE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{812148B6-F60C-45FA-9C96-34EC1E56EE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{812148B6-F60C-45FA-9C96-34EC1E56EE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BD10BE-F317-4E87-8BFA-52A4580D112B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BD10BE-F317-4E87-8BFA-52A4580D112B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BD10BE-F317-4E87-8BFA-52A4580D112B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BD10BE-F317-4E87-8BFA-52A4580D112B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916D46DD-94F6-40E5-9293-263008C92DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916D46DD-94F6-40E5-9293-263008C92DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916D46DD-94F6-40E5-9293-263008C92DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916D46DD-94F6-40E5-9293-263008C92DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170DBB40-D686-425F-A659-D0691EDF46CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170DBB40-D686-425F-A659-D0691EDF46CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170DBB40-D686-425F-A659-D0691EDF46CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170DBB40-D686-425F-A659-D0691EDF46CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FB9C6D8-D013-48DD-A038-8B529ED001BE}
+	EndGlobalSection
+EndGlobal

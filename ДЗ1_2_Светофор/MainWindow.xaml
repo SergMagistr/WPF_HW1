@@ -1,0 +1,20 @@
+﻿<Window x:Class="ДЗ1_2_Светофор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ДЗ1_2_Светофор"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="200">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10">
+           
+            <Ellipse x:Name="RedLight" Width="100" Height="100" Fill="Red" Margin="0,0,0,10"/>
+            <Ellipse x:Name="YellowLight" Width="100" Height="100" Fill="Gray" Margin="0,0,0,10"/>
+            <Ellipse x:Name="GreenLight" Width="100" Height="100" Fill="Gray" Margin="0,0,0,20"/>
+
+            
+            <Button x:Name="NextButton" Content="Next" Width="100" Height="30" Click="NextButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
