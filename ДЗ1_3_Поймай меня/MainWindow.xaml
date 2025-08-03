@@ -10,7 +10,7 @@
         <Button x:Name="RunButton" 
                 Content="Нажми меня!" 
                 Width="100" 
-                Height="30">
+                Height="35">
                </Button>
     </Grid>
 </Window>
